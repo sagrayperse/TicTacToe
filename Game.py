@@ -1,6 +1,6 @@
 
 class Game:
-
+#Here is a small comment
     def __init__(self):
         pass
 
